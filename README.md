@@ -49,7 +49,6 @@ vue-template
 │   └── main.js // 项目入口文件
 ├── .browserslistrc // 浏览器兼容列表
 ├── .editorconfig // 编辑器配置
-├── .env // 环境变量配置
 ├── .eslintrc // eslint配置
 ├── .gitignore // git上传忽略列表
 ├── babel.config.js // babel配置
