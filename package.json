@@ -12,7 +12,7 @@
     "core-js": "^3.3.2",
     "dingtalk-jsapi": "^2.10.2",
     "element-ui": "^2.10.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
